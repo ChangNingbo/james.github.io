@@ -53,7 +53,7 @@ minikube start --driver=docker --kubernetes-version=1.22.1 --image-repository='r
 ~~~
 启动成功后，如下图所示
 
-![启动成功截图](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/949c6a7bacc04dbf92159eb7c2ff7cbf~tplv-k3u1fbpfcp-watermark.image?)
+![启动成功截图](https://raw.githubusercontent.com/ChangNingbo/blog_img/main/img202208081219515.png)
 
 - –-driver 指定驱动为docker，同时也支持VirtualBox、SSH等，具体配置信息可参考[minikube官网](https://minikube.sigs.k8s.io/docs/drivers/)
 
