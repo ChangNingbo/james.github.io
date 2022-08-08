@@ -1,3 +1,14 @@
+---
+title: SpringBoot(2.5.2)应用制作Docker镜像
+date: 2021-01-01 08:29:53
+categories:
+- SpringBoot
+- Docker
+tags:
+- SpringBoot
+- Docker
+---
+
 #### 1.创建SpringBoot项目
 
 ![在这里插入图片描述](https://raw.githubusercontent.com/ChangNingbo/blog_img/main/img202208081315925.png)
