@@ -1,10 +1,11 @@
 ---
-title: 基于Docker 搭建MySql主从复制
+title: 基于Docker搭建MySql主从复制
 date: 2021-03-01 08:29:53
 categories:
 - Docker
 - MySql
 tags:
+- Docker
 - MySql
 ---
 
