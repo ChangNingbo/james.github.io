@@ -1,3 +1,12 @@
+---
+title: RocketMQ报错- sendDefaultImpl call timeout
+date: 2021-07-06 08:29:53
+categories:
+- RocketMQ
+tags:
+- RocketMQ
+---
+
 > springboot发送mq消息报错org.apache.rocketmq.remoting.exception.RemotingTooMuchRequestException: sendDefaultImpl call timeout
 
 可能原因一：端口未开放
