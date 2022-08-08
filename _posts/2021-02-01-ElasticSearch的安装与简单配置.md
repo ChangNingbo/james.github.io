@@ -1,3 +1,12 @@
+---
+title: ElasticSearch的安装与简单配置
+date: 2022-02-01 08:29:53
+categories:
+- ElasticSearch
+tags:
+- ElasticSearch
+---
+
 一、启动单节点
 
 ~~~shell
